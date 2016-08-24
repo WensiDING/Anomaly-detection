@@ -1,2 +1,2 @@
-# d-tection-d-anomalies
+# anomaly-detection
 summer internship at intersec
